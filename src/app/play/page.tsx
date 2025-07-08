@@ -1275,7 +1275,7 @@ function PlayPageClient() {
             >
               <div
                 ref={artRef}
-                className='bg-black w-full h-[300px] lg:h-full rounded-xl overflow-hidden border border-white/0 dark:border-white/30 shadow-lg'
+                className='bg-black w-full h-[300px] lg:h-full rounded-xl overflow-hidden border border-white/0 dark:border-white/10 shadow-lg'
               ></div>
             </div>
 
